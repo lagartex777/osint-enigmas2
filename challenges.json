@@ -1,0 +1,312 @@
+[
+  {
+    "id": 1,
+    "title": "Desafio #001 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint1/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_001_ok}"
+  },
+  {
+    "id": 2,
+    "title": "Desafio #002 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint2/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_002_ok}"
+  },
+  {
+    "id": 3,
+    "title": "Desafio #003 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint3/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_003_ok}"
+  },
+  {
+    "id": 4,
+    "title": "Desafio #004 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint4/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_004_ok}"
+  },
+  {
+    "id": 5,
+    "title": "Desafio #005 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint5/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_005_ok}"
+  },
+  {
+    "id": 6,
+    "title": "Desafio #006 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint6/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_006_ok}"
+  },
+  {
+    "id": 7,
+    "title": "Desafio #007 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint7/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_007_ok}"
+  },
+  {
+    "id": 8,
+    "title": "Desafio #008 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint8/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_008_ok}"
+  },
+  {
+    "id": 9,
+    "title": "Desafio #009 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint9/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_009_ok}"
+  },
+  {
+    "id": 10,
+    "title": "Desafio #010 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint10/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_010_ok}"
+  },
+  {
+    "id": 11,
+    "title": "Desafio #011 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint11/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_011_ok}"
+  },
+  {
+    "id": 12,
+    "title": "Desafio #012 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint12/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_012_ok}"
+  },
+  {
+    "id": 13,
+    "title": "Desafio #013 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint13/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_013_ok}"
+  },
+  {
+    "id": 14,
+    "title": "Desafio #014 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint14/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_014_ok}"
+  },
+  {
+    "id": 15,
+    "title": "Desafio #015 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint15/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_015_ok}"
+  },
+  {
+    "id": 16,
+    "title": "Desafio #016 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint16/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_016_ok}"
+  },
+  {
+    "id": 17,
+    "title": "Desafio #017 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint17/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_017_ok}"
+  },
+  {
+    "id": 18,
+    "title": "Desafio #018 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint18/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_018_ok}"
+  },
+  {
+    "id": 19,
+    "title": "Desafio #019 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint19/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_019_ok}"
+  },
+  {
+    "id": 20,
+    "title": "Desafio #020 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint20/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_020_ok}"
+  },
+  {
+    "id": 21,
+    "title": "Desafio #021 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint21/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_021_ok}"
+  },
+  {
+    "id": 22,
+    "title": "Desafio #022 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint22/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_022_ok}"
+  },
+  {
+    "id": 23,
+    "title": "Desafio #023 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint23/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_023_ok}"
+  },
+  {
+    "id": 24,
+    "title": "Desafio #024 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint24/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_024_ok}"
+  },
+  {
+    "id": 25,
+    "title": "Desafio #025 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint25/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_025_ok}"
+  },
+  {
+    "id": 26,
+    "title": "Desafio #026 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint26/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_026_ok}"
+  },
+  {
+    "id": 27,
+    "title": "Desafio #027 — Geolocalização",
+    "level": "médio",
+    "color": "yellow",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint27/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_027_ok}"
+  },
+  {
+    "id": 28,
+    "title": "Desafio #028 — Espectrograma",
+    "level": "difícil",
+    "color": "red",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint28/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_028_ok}"
+  },
+  {
+    "id": 29,
+    "title": "Desafio #029 — Metadados EXIF",
+    "level": "insano",
+    "color": "purple",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint29/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_029_ok}"
+  },
+  {
+    "id": 30,
+    "title": "Desafio #030 — Tráfego e Timing",
+    "level": "impossível",
+    "color": "black",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint30/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_030_ok}"
+  },
+  {
+    "id": 31,
+    "title": "Desafio #031 — Esteganografia",
+    "level": "fácil",
+    "color": "green",
+    "brief": "Camada múltipla: combine análise de metadados, padrões visuais, cruzamento de fontes públicas, e decodificação de mensagens ocultas.",
+    "image": "https://picsum.photos/seed/osint31/800/450",
+    "challenge": "Enigma complexo com várias etapas. Etapas sugeridas: (1) analisar metadados/headers; (2) extrair pistas visuais; (3) cruzar com fontes públicas; (4) decifrar qualquer cifra resultante. Este é um enigma sintético de treinamento — não encoraje atividades ilegais.",
+    "answer": "FLAG{osint_031_ok}"
+  }
+]
