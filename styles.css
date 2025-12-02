@@ -1,0 +1,42 @@
+:root{
+  --bg:#071021; --card:#0f1724; --muted:#9ca3af; --accent:#60a5fa;
+  --green:#10b981; --yellow:#f59e0b; --red:#ef4444; --purple:#8b5cf6; --black:#111827;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter,system-ui,Arial;background:linear-gradient(180deg,var(--bg),#021021);color:#e6eef8;padding:28px}
+h1{margin:0;font-size:2rem}
+.lead{color:var(--muted);margin-top:6px}
+header{max-width:1100px;margin:0 auto 18px}
+.controls{display:flex;gap:12px;align-items:center;margin-top:12px}
+.controls label{font-size:0.9rem;color:var(--muted)}
+.controls input, .controls select{padding:6px 8px;border-radius:6px;border:1px solid rgba(255,255,255,0.06);background:transparent;color:inherit}
+
+#grid{max-width:1100px;margin:18px auto;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+.card{background:var(--card);padding:12px;border-radius:12px;box-shadow:0 6px 20px rgba(2,6,23,0.6);border-left:8px solid transparent;display:flex;flex-direction:column;gap:8px}
+.card img{width:100%;height:160px;object-fit:cover;border-radius:8px}
+.meta{display:flex;justify-content:space-between;align-items:center}
+.title{font-weight:700}
+.brief{color:var(--muted);font-size:0.95rem}
+.btn-row{display:flex;gap:8px}
+.button{padding:8px 10px;border-radius:8px;border:none;cursor:pointer;font-weight:600}
+.open{background:linear-gradient(90deg,var(--accent),#3b82f6);color:#04203a}
+.copy{background:#222;border:1px solid rgba(255,255,255,0.03);color:var(--muted)}
+.level{padding:6px 10px;border-radius:999px;font-weight:700;text-transform:capitalize}
+.level.green{background:var(--green);color:#04203a}
+.level.yellow{background:var(--yellow);color:#04203a}
+.level.red{background:var(--red);color:#04203a}
+.level.purple{background:var(--purple);color:#04203a}
+.level.black{background:var(--black);color:#fff}
+
+.modal{position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;padding:20px;z-index:50}
+.modal.hidden{display:none}
+.modal-content{background:#071428;padding:18px;border-radius:12px;max-width:880px;width:100;position:relative}
+.close{position:absolute;right:12px;top:12px;background:transparent;border:none;color:var(--muted);font-size:18px;cursor:pointer}
+.challenge-body{display:grid;grid-template-columns:1fr 300px;gap:12px}
+.challenge-main{padding-right:8px}
+.challenge-side{background:#021226;padding:12px;border-radius:8px}
+.hint{background:#0b1220;padding:10px;border-radius:8px;color:var(--muted);font-size:0.95rem}
+.answer{background:#031018;padding:10px;border-radius:8px;margin-top:8px;font-family:monospace}
+.footer{display:flex;justify-content:space-between;align-items:center;margin-top:12px}
+.small{font-size:0.85rem;color:var(--muted)}
+@media(max-width:900px){.challenge-body{grid-template-columns:1fr}}
