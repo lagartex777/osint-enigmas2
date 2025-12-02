@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OSINT ENIGMAS</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>OSINT EXTREMO</h1>
+  <p class="lead">Coleção de desafios OSINT (treinamento). Níveis: fácil → impossível. Respostas são flags para validar localmente.</p>
+  <div class="controls">
+    <label>Filtrar por nível:
+      <select id="filter-level">
+        <option value="all">Todos</option>
+        <option value="fácil">Fácil</option>
+        <option value="médio">Médio</option>
+        <option value="difícil">Difícil</option>
+        <option value="insano">Insano</option>
+        <option value="impossível">Impossível</option>
+      </select>
+    </label>
+    <label>Busca:
+      <input id="search" placeholder="Buscar título ou descrição">
+    </label>
+    <button id="reset">Resetar Progresso</button>
+  </div>
+</header>
+
+<main id="grid"></main>
+
+<!-- modal -->
+<div id="modal" class="modal hidden" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <button id="close-modal" class="close">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
